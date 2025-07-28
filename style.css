@@ -1208,7 +1208,9 @@ list-style: none;
 	margin-left:-80px;
 	margin-top:-70px;
 }
-		 .contact-form .contact-list{
-display:inline;
+ .contact-form .contact-list{
+display:inline-block;
+ margin-left:20px;
+	 
 			 
 }
